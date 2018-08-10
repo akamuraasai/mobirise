@@ -319,21 +319,6 @@
         },
         {
           "_params": {
-            "googleMap": {
-              "placeId": "ChIJn6wOs6lZwokRLKy1iqRcoKw",
-              "address": "350 5th Ave, New York, NY 10118",
-              "state": "ok"
-            }
-          },
-          "alias": "purity/components",
-          "_tags": [
-            "Layout"
-          ],
-          "_name": "map1",
-          "_anchor": "map1-c"
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
